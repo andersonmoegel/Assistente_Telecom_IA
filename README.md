@@ -75,17 +75,14 @@ Também inclui um **launcher em Python (`launcher.py`)** para facilitar a inicia
 .
 ├── server.js
 ├── launcher.py
-├── executar.bat
 ├── package.json
 ├── package-lock.json
 ├── .gitignore
 ├── README.md
-├── TODO.md
 ├── public/
 │   ├── index.html
 │   ├── script.js
 │   └── style.css
-├── uploads/
 ├── testdata/
 │   ├── broken.pdf
 │   ├── chat.json
